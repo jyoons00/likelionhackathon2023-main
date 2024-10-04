@@ -1,5 +1,5 @@
 # 멋쟁이사자처럼 중앙해커톤 파일
-> This is the team submission version, and I was responsible for the login logic and JS and HTML and css and server deployment, while my team members handled feature implementation, design, and HTML and JS<br>
+> <br>
 23.07.20 ~ 23.08.19
 
 
