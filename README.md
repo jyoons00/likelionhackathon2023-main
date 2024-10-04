@@ -1,3 +1,6 @@
+![ppt - 1](https://github.com/user-attachments/assets/fe21b445-9b85-47eb-b0b2-ec7fcaad2c44)
+
+
 # 멋쟁이사자처럼 중앙해커톤 파일
 23.07.20 ~ 23.08.20
 
