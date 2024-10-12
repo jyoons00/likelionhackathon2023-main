@@ -2,6 +2,7 @@
 23.07.20 ~ 23.08.20
 
 ![ppt - 1](https://github.com/user-attachments/assets/fe21b445-9b85-47eb-b0b2-ec7fcaad2c44)
+![ppt - 5](https://github.com/user-attachments/assets/a5dedde7-c166-44c9-96fd-54f0d079194e)
 ![ppt - 6](https://github.com/user-attachments/assets/58dab4ec-7264-49f1-9106-59ccf9667c7c)
 
 ## 팀 프로젝트: 안심톡톡
