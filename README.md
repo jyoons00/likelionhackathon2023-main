@@ -3,9 +3,6 @@
 
 ![ppt - 1](https://github.com/user-attachments/assets/fe21b445-9b85-47eb-b0b2-ec7fcaad2c44)
 ![ppt - 2](https://github.com/user-attachments/assets/7ec71eeb-4102-49fd-bdd3-80a12abf1da3)
-![ppt - 3](https://github.com/user-attachments/assets/27428f1f-16e5-438c-ba9c-3309dd288ea1)
-![ppt - 4](https://github.com/user-attachments/assets/93b7c0a0-8ff7-4211-8e99-9f127c48abfe)
-![ppt - 5](https://github.com/user-attachments/assets/a5dedde7-c166-44c9-96fd-54f0d079194e)
 ![ppt - 6](https://github.com/user-attachments/assets/58dab4ec-7264-49f1-9106-59ccf9667c7c)
 
 ## 팀 프로젝트: 안심톡톡
