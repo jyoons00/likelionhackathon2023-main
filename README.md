@@ -54,5 +54,6 @@
   
 ---
 #### 추가 리팩토링/개발 예정
+(https://github.com/jyoons00/LikeLionHackathon2025-rebuilding)
 - 인증 이메일 발송을 통한 보호자 원격 인증 시스템 추가
 - 로그인 과정에서 Ajax를 통한 사용자 경험 개선
